@@ -4,7 +4,7 @@ import org.example.notificationSystem.factory.NotificationFactory;
 import org.example.notificationSystem.model.Notification;
 import org.example.notificationSystem.service.NotificationSender;
 
-public class Main {
+public class NotificationSystem {
 
     public static void main(String[] args){
         NotificationSender sender = new NotificationSender();

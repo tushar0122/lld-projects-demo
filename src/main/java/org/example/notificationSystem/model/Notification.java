@@ -1,5 +1,6 @@
 package org.example.notificationSystem.model;
 
+import lombok.Builder;
 import lombok.Data;
 import lombok.experimental.SuperBuilder;
 
